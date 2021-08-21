@@ -27,7 +27,7 @@ baseurl: /jekyll-test
 url: https://kalilistic.github.io/jekyll-test
 
 # Build settings
-theme: no-style-please
+theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
 
